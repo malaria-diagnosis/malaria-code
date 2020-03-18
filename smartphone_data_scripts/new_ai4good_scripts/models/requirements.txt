@@ -1,0 +1,6 @@
+matplotlib
+pandas
+tensorflow>=2.0
+keras
+
+#keras-webhook-callback
